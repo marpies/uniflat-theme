@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7b27054b113ba5c406204a75a9a3ac45:2a8ecf27c45b24f50f0614990c1785ab:2ff1ff47e0e77eb37f871b395431a906$ -->
+<TextureAtlas imagePath="uniflat_mobile_icons.png" width="1024" height="1024">
+    <SubTexture name="3d-rotation-icon" x="281" y="541" width="54" height="54"/>
+    <SubTexture name="accessibility-icon" x="504" y="546" width="44" height="48" frameX="-5" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="account-balance-icon" x="339" y="522" width="46" height="50" frameX="-3" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="account-balance-wallet-icon" x="789" y="315" width="46" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="account-box-icon" x="865" y="1" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="account-child-icon" x="609" y="1" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="account-circle-icon" x="502" y="1" width="50" height="50" frameX="-2" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="add-box-icon" x="869" y="187" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="add-circle-icon" x="370" y="630" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="add-circle-outline-icon" x="400" y="576" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="add-icon" x="636" y="181" width="34" height="34" frameX="-10" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="add-shopping-cart-icon" x="421" y="225" width="48" height="50" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="alarm-add-icon" x="431" y="514" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="alarm-icon" x="435" y="442" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="alarm-off-icon" x="556" y="1" width="49" height="48" frameX="-2" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="alarm-on-icon" x="463" y="386" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="alert-background" x="453" y="186" width="32" height="35"/>
+    <SubTexture name="alert-button-down" x="221" y="481" width="56" height="56"/>
+    <SubTexture name="android-icon" x="297" y="133" width="48" height="54" frameX="-3" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="announcement-icon" x="487" y="331" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="apps-icon" x="197" y="981" width="41" height="41" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="archive-icon" x="586" y="936" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="arrow-back-icon" x="870" y="145" width="38" height="38" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="arrow-drop-down-circle-icon" x="518" y="277" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="arrow-drop-down-icon" x="185" y="869" width="26" height="14" frameX="-14" frameY="-23" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="arrow-drop-up-icon" x="215" y="869" width="26" height="14" frameX="-14" frameY="-17" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="arrow-forward-icon" x="983" y="337" width="38" height="38" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="aspect-ratio-icon" x="530" y="836" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="assessment-icon" x="589" y="878" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="assignment-icon" x="535" y="490" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="assignment-ind-icon" x="539" y="435" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="assignment-late-icon" x="567" y="381" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="assignment-return-icon" x="591" y="328" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="assignment-returned-icon" x="622" y="274" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="assignment-turned-in-icon" x="633" y="220" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="auto-renew-icon" x="337" y="225" width="38" height="52" frameX="-8" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="background-header" x="363" y="446" width="10" height="10"/>
+    <SubTexture name="background-list" x="363" y="446" width="10" height="10"/>
+    <SubTexture name="background-plain-overlay" x="377" y="446" width="10" height="10"/>
+    <SubTexture name="background-plain" x="363" y="446" width="10" height="10"/>
+    <SubTexture name="background-toolbar-translucent" x="1" y="133" width="106" height="100"/>
+    <SubTexture name="backspace-icon" x="242" y="979" width="54" height="44" frameX="0" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="backup-icon" x="839" y="324" width="54" height="38" frameX="0" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="block-icon" x="529" y="224" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="book-icon" x="615" y="380" width="38" height="48" frameX="-8" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="bookmark-icon" x="831" y="173" width="34" height="44" frameX="-10" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="bookmark-outline-icon" x="738" y="628" width="34" height="44" frameX="-10" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="bug-report-icon" x="870" y="49" width="38" height="44" frameX="-8" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="button-back-disabled" x="1" y="429" width="124" height="88"/>
+    <SubTexture name="button-back-down" x="95" y="237" width="124" height="88"/>
+    <SubTexture name="button-back-icon" x="792" y="89" width="19" height="30" frameX="-17" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="button-back-up" x="95" y="329" width="124" height="88"/>
+    <SubTexture name="button-down" x="1" y="705" width="88" height="88"/>
+    <SubTexture name="button-forward-disabled" x="111" y="133" width="124" height="88"/>
+    <SubTexture name="button-forward-down" x="155" y="1" width="124" height="88"/>
+    <SubTexture name="button-forward-icon" x="797" y="53" width="19" height="30" frameX="-18" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="button-forward-up" x="1" y="521" width="124" height="88"/>
+    <SubTexture name="button-outline-up" x="1" y="797" width="88" height="88"/>
+    <SubTexture name="button-selected-disabled" x="1" y="889" width="88" height="88"/>
+    <SubTexture name="button-selected-down" x="93" y="705" width="88" height="88"/>
+    <SubTexture name="button-selected-up" x="95" y="613" width="88" height="88"/>
+    <SubTexture name="button-small-down" x="221" y="541" width="56" height="56"/>
+    <SubTexture name="button-small-up" x="221" y="481" width="56" height="56"/>
+    <SubTexture name="button-up" x="129" y="429" width="88" height="88"/>
+    <SubTexture name="cached-icon" x="790" y="776" width="52" height="38" frameX="-1" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="cake-icon" x="303" y="413" width="44" height="51" frameX="-5" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="callout-arrow-down" x="239" y="191" width="56" height="30"/>
+    <SubTexture name="callout-arrow-left" x="238" y="705" width="28" height="58"/>
+    <SubTexture name="callout-arrow-right" x="199" y="887" width="28" height="58"/>
+    <SubTexture name="callout-arrow-up" x="238" y="767" width="56" height="26"/>
+    <SubTexture name="callout-background" x="453" y="186" width="32" height="35"/>
+    <SubTexture name="cancel-icon" x="339" y="468" width="50" height="50" frameX="-2" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="check-circle-icon" x="551" y="130" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="check-down-icon" x="240" y="601" width="56" height="56"/>
+    <SubTexture name="check-icon" x="119" y="97" width="42" height="32" frameX="-6" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="check-selected-down-icon" x="270" y="705" width="56" height="56"/>
+    <SubTexture name="check-selected-up-icon" x="330" y="703" width="56" height="56"/>
+    <SubTexture name="check-up-icon" x="339" y="789" width="56" height="56"/>
+    <SubTexture name="chevron-left-icon" x="792" y="89" width="19" height="30" frameX="-17" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="chevron-right-icon" x="797" y="53" width="19" height="30" frameX="-18" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="class-icon" x="615" y="380" width="38" height="48" frameX="-8" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="clear-icon" x="680" y="91" width="34" height="34" frameX="-10" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="close-icon" x="379" y="93" width="36" height="36" frameX="-9" frameY="-9" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="content-copy-icon" x="279" y="339" width="46" height="52" frameX="-3" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="content-cut-icon" x="661" y="1" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="content-paste-icon" x="329" y="337" width="44" height="51" frameX="-5" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="create-icon" x="634" y="926" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="credit-card-icon" x="809" y="818" width="48" height="38" frameX="-3" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="dashboard-icon" x="637" y="878" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="data-grid-cell-divider" x="274" y="857" width="2" height="24" frameX="0" frameY="-9" frameWidth="2" frameHeight="42"/>
+    <SubTexture name="data-grid-header-divider" x="139" y="981" width="2" height="42"/>
+    <SubTexture name="data-grid-header-sort-ascending" x="384" y="763" width="30" height="19" frameX="-12" frameY="-17" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="data-grid-header-sort-descending" x="524" y="944" width="30" height="19" frameX="-12" frameY="-18" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="data-grid-header-up" x="870" y="282" width="42" height="38"/>
+    <SubTexture name="data-grid-list-item-down" x="820" y="860" width="42" height="38"/>
+    <SubTexture name="data-grid-list-item-selected" x="820" y="902" width="42" height="38"/>
+    <SubTexture name="data-grid-list-item-up" x="864" y="944" width="42" height="38"/>
+    <SubTexture name="date-time-spinner-background" x="785" y="177" width="28" height="30"/>
+    <SubTexture name="date-time-spinner-selection-overlay" x="291" y="395" width="10" height="14"/>
+    <SubTexture name="delete-icon" x="730" y="896" width="34" height="44" frameX="-10" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="description-icon" x="639" y="326" width="38" height="48" frameX="-8" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="dns-icon" x="672" y="974" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="domain-icon" x="626" y="695" width="50" height="44" frameX="-2" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="done-all-icon" x="395" y="188" width="54" height="33" frameX="0" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="done-icon" x="525" y="55" width="43" height="33" frameX="-6" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="drafts-icon" x="650" y="536" width="48" height="45" frameX="-3" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="drop-down-list-background" x="453" y="186" width="32" height="35"/>
+    <SubTexture name="error-icon" x="387" y="133" width="50" height="51" frameX="-2" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="event-icon" x="632" y="432" width="44" height="47" frameX="-5" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="exit-to-app-icon" x="682" y="926" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="expand-less-icon" x="223" y="396" width="30" height="19" frameX="-12" frameY="-17" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="expand-more-icon" x="257" y="396" width="30" height="19" frameX="-12" frameY="-18" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="explore-icon" x="390" y="682" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="extension-icon" x="351" y="392" width="50" height="50" frameX="-3" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="face-icon" x="300" y="599" width="54" height="54"/>
+    <SubTexture name="favorite-icon" x="679" y="483" width="48" height="45" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="favorite-outline-icon" x="731" y="477" width="48" height="44" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="filter-list-icon" x="299" y="191" width="44" height="30" frameX="-5" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="find-in-page-icon" x="670" y="272" width="38" height="48" frameX="-8" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="find-replace-icon" x="49" y="981" width="42" height="42" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="flag-icon" x="490" y="838" width="36" height="41" frameX="-10" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="flip-to-back-icon" x="720" y="974" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="flip-to-front-icon" x="638" y="800" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="forward-icon" x="910" y="421" width="38" height="38" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="full-screen-enter-icon" x="419" y="92" width="36" height="36"/>
+    <SubTexture name="full-screen-exit-icon" x="459" y="92" width="36" height="36"/>
+    <SubTexture name="fullscreen-exit-icon" x="866" y="421" width="38" height="38" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="fullscreen-icon" x="952" y="421" width="38" height="38" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="gesture-icon" x="671" y="743" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="get-app-icon" x="771" y="831" width="34" height="41" frameX="-10" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="grade-icon" x="681" y="324" width="48" height="46" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="group-add-icon" x="378" y="944" width="54" height="29" frameX="0" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="group-icon" x="436" y="944" width="50" height="29" frameX="-2" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="group-work-icon" x="418" y="734" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="grouped-list-item-first-down" x="284" y="661" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-first-selected" x="913" y="1" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-first-up" x="913" y="43" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-last-down" x="912" y="85" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-last-selected" x="912" y="127" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-last-up" x="917" y="169" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-middle-down" x="917" y="211" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-middle-selected" x="917" y="253" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-middle-up" x="916" y="295" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-single-down" x="586" y="984" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-single-selected" x="897" y="337" width="82" height="38"/>
+    <SubTexture name="grouped-list-item-single-up" x="861" y="379" width="82" height="38"/>
+    <SubTexture name="help-icon" x="422" y="628" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="highlight-remove-icon" x="442" y="680" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="history-icon" x="767" y="729" width="49" height="43" frameX="-1" frameY="-6" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="home-icon" x="145" y="981" width="48" height="41" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="https-icon" x="358" y="576" width="38" height="50" frameX="-8" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="inbox-icon" x="680" y="688" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="info-icon" x="459" y="786" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="info-outline-icon" x="470" y="732" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="input-icon" x="680" y="429" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="invert-colors-icon" x="632" y="590" width="38" height="46" frameX="-8" frameY="-4" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="label-icon" x="537" y="92" width="46" height="34" frameX="-5" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="label-outline-icon" x="572" y="53" width="46" height="34" frameX="-5" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="language-icon" x="511" y="784" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="launch-icon" x="690" y="633" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="link-icon" x="230" y="949" width="48" height="26" frameX="-3" frameY="-14" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="list-icon" x="282" y="947" width="44" height="26" frameX="-5" frameY="-14" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="list-item-down" x="61" y="1" width="90" height="92"/>
+    <SubTexture name="list-item-selected" x="1" y="237" width="90" height="92"/>
+    <SubTexture name="list-item-up" x="1" y="333" width="90" height="92"/>
+    <SubTexture name="location-city-icon" x="628" y="485" width="47" height="47" frameX="-5" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="lock-icon" x="358" y="576" width="38" height="50" frameX="-8" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="lock-open-icon" x="389" y="522" width="38" height="50" frameX="-8" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="lock-outline-icon" x="393" y="460" width="38" height="50" frameX="-8" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="loyalty-icon" x="537" y="884" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="mail-icon" x="768" y="934" width="48" height="38" frameX="-3" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="mark-unread-icon" x="768" y="934" width="48" height="38" frameX="-3" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="mark-unread-mailbox-icon" x="450" y="1" width="48" height="51" frameX="-3" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="menu-icon" x="386" y="849" width="44" height="31" frameX="-5" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="mood-icon" x="377" y="336" width="50" height="50" frameX="-2" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="more-horizontal-icon" x="305" y="395" width="42" height="12" frameX="-6" frameY="-21" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="more-vertical-icon" x="123" y="981" width="12" height="42" frameX="-21" frameY="-6" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="note-add-icon" x="681" y="217" width="38" height="48" frameX="-8" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="notifications-icon" x="552" y="542" width="41" height="48" frameX="-5" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="notifications-none-icon" x="583" y="487" width="41" height="48" frameX="-5" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="notifications-off-icon" x="653" y="129" width="44" height="48" frameX="-5" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="notifications-on-icon" x="497" y="132" width="50" height="48" frameX="-1" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="notifications-paused-icon" x="587" y="433" width="41" height="48" frameX="-5" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="numeric-stepper-dec-button-down" x="93" y="889" width="49" height="88"/>
+    <SubTexture name="numeric-stepper-dec-button-up" x="146" y="889" width="49" height="88"/>
+    <SubTexture name="numeric-stepper-inc-button-down" x="185" y="705" width="49" height="88"/>
+    <SubTexture name="numeric-stepper-inc-button-up" x="187" y="613" width="49" height="88"/>
+    <SubTexture name="numeric-stepper-input-background" x="363" y="446" width="10" height="10"/>
+    <SubTexture name="open-in-browser-icon" x="768" y="976" width="44" height="38" frameX="-5" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="open-in-new-icon" x="690" y="633" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="open-with-icon" x="223" y="340" width="52" height="52" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="page-indicator" x="751" y="177" width="30" height="30"/>
+    <SubTexture name="page-view-icon" x="728" y="580" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="pages-icon" x="755" y="525" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="party-mode-icon" x="768" y="887" width="48" height="43" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="pause-button-icon" x="719" y="181" width="28" height="32"/>
+    <SubTexture name="payment-icon" x="809" y="818" width="48" height="38" frameX="-3" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="people-icon" x="436" y="944" width="50" height="29" frameX="-2" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="people-outline-icon" x="434" y="846" width="52" height="34" frameX="-1" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="perm-camera-mic-icon" x="736" y="422" width="48" height="44" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="perm-contact-cal-icon" x="713" y="1" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="perm-data-setting-icon" x="223" y="225" width="54" height="54"/>
+    <SubTexture name="perm-device-info-icon" x="349" y="133" width="34" height="52" frameX="-10" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="perm-identity-icon" x="910" y="463" width="38" height="38" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="perm-media-icon" x="405" y="390" width="54" height="48" frameX="0" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="perm-phone-msg-icon" x="783" y="470" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="perm-scan-wifi-icon" x="300" y="977" width="54" height="46" frameX="0" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="person-add-icon" x="705" y="374" width="52" height="44" frameX="0" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="person-icon" x="788" y="415" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="person-outline-icon" x="657" y="378" width="44" height="47" frameX="-5" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="picker-list-button-icon" x="245" y="869" width="25" height="14"/>
+    <SubTexture name="picker-list-button-small-disabled" x="257" y="797" width="78" height="56"/>
+    <SubTexture name="picker-list-button-small-down" x="335" y="884" width="78" height="56"/>
+    <SubTexture name="picker-list-button-small-up" x="221" y="421" width="78" height="56"/>
+    <SubTexture name="picture-in-picture-icon" x="733" y="319" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="play-button-icon" x="763" y="89" width="25" height="32"/>
+    <SubTexture name="plus-one-icon" x="757" y="53" width="36" height="32" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="poll-icon" x="408" y="280" width="50" height="50" frameX="-2" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="polymer-icon" x="947" y="379" width="54" height="38" frameX="0" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="print-icon" x="761" y="367" width="48" height="44" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="progress-bar-horizontal" x="149" y="225" width="12" height="8"/>
+    <SubTexture name="progress-bar-vertical" x="351" y="446" width="8" height="12"/>
+    <SubTexture name="public-icon" x="452" y="566" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="query-builder-icon" x="474" y="618" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="question-answer-icon" x="494" y="670" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="radio-down-icon" x="417" y="884" width="56" height="56"/>
+    <SubTexture name="radio-selected-down-icon" x="399" y="786" width="56" height="56"/>
+    <SubTexture name="radio-selected-up-icon" x="477" y="884" width="56" height="56"/>
+    <SubTexture name="radio-up-icon" x="526" y="967" width="56" height="56"/>
+    <SubTexture name="receipt-icon" x="701" y="129" width="44" height="48" frameX="-5" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="redeem-icon" x="712" y="269" width="48" height="46" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="redo-icon" x="280" y="857" width="49" height="23" frameX="-2" frameY="-14" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="refresh-icon" x="866" y="463" width="38" height="38" frameX="-8" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="remove-circle-icon" x="522" y="722" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="remove-circle-outline-icon" x="563" y="774" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="remove-icon" x="111" y="225" width="34" height="8" frameX="-10" frameY="-23" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="reorder-icon" x="587" y="91" width="44" height="34" frameX="-5" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="reply-all-icon" x="165" y="93" width="54" height="36" frameX="0" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="reply-icon" x="331" y="93" width="44" height="36" frameX="-5" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="report-icon" x="813" y="366" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="report-problem-icon" x="358" y="977" width="52" height="46" frameX="-1" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="restore-icon" x="636" y="640" width="50" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="room-icon" x="749" y="125" width="34" height="48" frameX="-10" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="save-icon" x="685" y="848" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="schedule-icon" x="586" y="826" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="school-icon" x="764" y="267" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="scroll-bar-horizontal" x="95" y="421" width="20" height="4"/>
+    <SubTexture name="scroll-bar-vertical" x="376" y="763" width="4" height="20"/>
+    <SubTexture name="search-icon" x="870" y="235" width="43" height="43" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="search-input-focused" x="129" y="521" width="88" height="88"/>
+    <SubTexture name="search-input-icon" x="199" y="949" width="27" height="28"/>
+    <SubTexture name="search-input-up" x="93" y="797" width="88" height="88"/>
+    <SubTexture name="seek-slider-thumb" x="240" y="661" width="40" height="40"/>
+    <SubTexture name="seek-slider" x="119" y="421" width="8" height="4"/>
+    <SubTexture name="select-all-icon" x="686" y="791" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="send-icon" x="674" y="585" width="50" height="44" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-applications-icon" x="719" y="736" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-backup-restore-icon" x="702" y="532" width="49" height="44" frameX="0" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-bluetooth-icon" x="283" y="1" width="31" height="54" frameX="-10" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-cell-icon" x="318" y="1" width="30" height="54" frameX="-12" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-display-icon" x="775" y="211" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-ethernet-icon" x="61" y="97" width="54" height="32" frameX="0" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-icon" x="603" y="129" width="46" height="48" frameX="-4" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-input-antenna-icon" x="394" y="1" width="52" height="51" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-input-component-icon" x="261" y="283" width="52" height="52" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-input-composite-icon" x="261" y="283" width="52" height="52" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-input-hdmi-icon" x="546" y="650" width="34" height="48" frameX="-10" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-input-svideo-icon" x="281" y="225" width="52" height="52" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-overscan-icon" x="787" y="125" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-phone-icon" x="728" y="681" width="44" height="44" frameX="-5" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-power-icon" x="379" y="225" width="38" height="51" frameX="-8" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-remote-icon" x="352" y="1" width="38" height="53" frameX="-8" frameY="0" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="settings-voice-icon" x="223" y="283" width="34" height="53" frameX="-10" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="share-icon" x="761" y="1" width="44" height="48" frameX="-5" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="shop-icon" x="723" y="217" width="48" height="46" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="shop-two-icon" x="441" y="132" width="52" height="50" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="shopping-basket-icon" x="414" y="977" width="52" height="46" frameX="-1" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="shopping-cart-icon" x="483" y="494" width="48" height="48" frameX="-1" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="slider-horizontal" x="119" y="421" width="8" height="4"/>
+    <SubTexture name="slider-thumb" x="185" y="797" width="68" height="68"/>
+    <SubTexture name="slider-vertical" x="165" y="225" width="4" height="8"/>
+    <SubTexture name="sort-icon" x="347" y="191" width="44" height="30" frameX="-5" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="speaker-notes-icon" x="487" y="438" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="spell-check-icon" x="597" y="539" width="49" height="47" frameX="-4" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="spinner-list-background" x="453" y="186" width="32" height="35"/>
+    <SubTexture name="spinner-list-selection-overlay" x="1" y="613" width="90" height="88"/>
+    <SubTexture name="star-rate-icon" x="490" y="944" width="30" height="29" frameX="-12" frameY="-11" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="stars-icon" x="515" y="383" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="store-icon" x="816" y="976" width="44" height="38" frameX="-5" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="subject-icon" x="670" y="53" width="38" height="34" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="supervisor-account-icon" x="489" y="186" width="48" height="34" frameX="-3" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="swap-horizontal-icon" x="622" y="53" width="44" height="34" frameX="-5" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="swap-vertical-circle-icon" x="539" y="329" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="swap-vertical-icon" x="733" y="839" width="34" height="44" frameX="-10" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="system-update-tv-icon" x="734" y="784" width="52" height="43" frameX="-1" frameY="-6" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="tab-bar-background" x="348" y="763" width="10" height="20"/>
+    <SubTexture name="tab-bar-inverted-background" x="362" y="763" width="10" height="20"/>
+    <SubTexture name="tab-icon" x="809" y="1" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="tab-unselected-icon" x="615" y="752" width="52" height="44" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="tab-with-icon" x="1" y="1" width="56" height="128"/>
+    <SubTexture name="tab" x="221" y="481" width="56" height="56"/>
+    <SubTexture name="text-format-icon" x="499" y="92" width="34" height="36" frameX="-10" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="text-input-focused" x="391" y="446" width="10" height="10"/>
+    <SubTexture name="text-input-up" x="339" y="576" width="10" height="10"/>
+    <SubTexture name="theaters-icon" x="870" y="97" width="38" height="44" frameX="-8" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="thumb-down-icon" x="431" y="334" width="52" height="48" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="thumb-up-icon" x="462" y="279" width="52" height="48" frameX="-1" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="thumbs-up-down-icon" x="239" y="133" width="54" height="54"/>
+    <SubTexture name="toc-icon" x="330" y="947" width="44" height="26" frameX="-5" frameY="-14" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="today-icon" x="526" y="598" width="44" height="48" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="toggle-switch-thumb" x="281" y="481" width="54" height="56" frameX="0" frameY="-7" frameWidth="54" frameHeight="63"/>
+    <SubTexture name="toggle-switch-track" x="231" y="887" width="100" height="56"/>
+    <SubTexture name="track-changes-icon" x="570" y="276" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="translate-icon" x="473" y="225" width="52" height="48" frameX="-1" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="tree-disclosure-closed-icon" x="797" y="53" width="19" height="30" frameX="-17" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="tree-disclosure-open-icon" x="524" y="944" width="30" height="19" frameX="-12" frameY="-17" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="trending-down-icon" x="283" y="59" width="48" height="30" frameX="-3" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="trending-neutral-icon" x="298" y="765" width="46" height="20" frameX="-5" frameY="-17" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="trending-up-icon" x="335" y="59" width="48" height="30" frameX="-3" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="turned-in-icon" x="831" y="173" width="34" height="44" frameX="-10" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="turned-in-not-icon" x="738" y="628" width="34" height="44" frameX="-10" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="undo-icon" x="333" y="857" width="49" height="23" frameX="-3" frameY="-14" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="unfold-less-icon" x="95" y="981" width="24" height="42" frameX="-15" frameY="-6" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="unfold-more-icon" x="999" y="1" width="24" height="44" frameX="-15" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="verified-user-icon" x="317" y="281" width="44" height="52" frameX="-5" frameY="-1" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="videocam-icon" x="387" y="58" width="44" height="30" frameX="-5" frameY="-12" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-agenda-icon" x="820" y="259" width="46" height="44" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-array-icon" x="435" y="56" width="41" height="32" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-carousel-icon" x="279" y="93" width="48" height="36" frameX="-3" frameY="-8" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-column-icon" x="480" y="56" width="41" height="32" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-day-icon" x="820" y="49" width="46" height="44" frameX="-3" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-headline-icon" x="591" y="182" width="41" height="34" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-list-icon" x="635" y="91" width="41" height="34" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-module-icon" x="712" y="53" width="41" height="32" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-quilt-icon" x="674" y="181" width="41" height="32" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-stream-icon" x="718" y="89" width="41" height="32" frameX="-8" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="view-week-icon" x="541" y="184" width="46" height="34" frameX="-3" frameY="-10" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="visibility-icon" x="223" y="93" width="52" height="36" frameX="-1" frameY="-9" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="visibility-off-icon" x="470" y="977" width="52" height="46" frameX="-1" frameY="-5" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="volume-down-icon" x="999" y="49" width="23" height="38" frameX="-10" frameY="-2" frameWidth="44" frameHeight="42"/>
+    <SubTexture name="volume-slider-thumb" x="240" y="661" width="40" height="40"/>
+    <SubTexture name="volume-slider" x="119" y="421" width="8" height="4"/>
+    <SubTexture name="volume-up-icon" x="1" y="981" width="44" height="42"/>
+    <SubTexture name="wallet-gift-card-icon" x="712" y="269" width="48" height="46" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="wallet-membership-icon" x="581" y="222" width="48" height="48" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="wallet-travel-icon" x="574" y="702" width="48" height="46" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="warning-icon" x="574" y="594" width="54" height="47" frameX="0" frameY="-2" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="whats-hot-icon" x="365" y="281" width="39" height="51" frameX="-7" frameY="-3" frameWidth="54" frameHeight="54"/>
+    <SubTexture name="work-icon" x="584" y="645" width="48" height="46" frameX="-3" frameY="-3" frameWidth="54" frameHeight="54"/>
+</TextureAtlas>
